@@ -1,3 +1,4 @@
+/* global BigInt */
 import { useState } from "react";
 
 function factorial(n) {
