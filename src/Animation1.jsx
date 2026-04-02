@@ -1,4 +1,4 @@
-/* global BigInt */
+// const x = BigInt(1234567890123456789); // commentaire temporaire
 import { useState } from "react";
 
 function factorial(n) {
